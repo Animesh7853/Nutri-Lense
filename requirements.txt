@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+# scikit-learn 
+# Pandas
+# Streamlit
+streamlit-echarts 
+# Numpy
+beautifulsoup4 
+# altair<5
+
+pickle5==0.0.11
+streamlit==1.22.0
+scikit-learn==1.2.2
+numpy==1.24.3
+pandas==1.5.1
+altair==4.1.0
+google.generativeai
+plotly
+python-dotenv 
